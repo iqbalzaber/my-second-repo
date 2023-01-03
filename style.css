@@ -1,11 +1,33 @@
 p{
-    color: bisque; 
-     background-image:url(../my-second-repo/images.png) ;
+    colo:red; 
+     /* background-image:url(../my-second-repo/images.png) ; */
     /* background-repeat: no-repeat; */
     /* background:cover; */
-    background-size: cover 100px;
+    /* background-size: cover 100px; */
 }
 title{
     
-    background-image: url(../my-second-repo/images.png);
+    /* background-image: url(../my-second-repo/images.png); */
+}
+h1{
+    background-image: url(images.png);
+    padding: 30px 50px 60px 40px;
+    background-origin: border-box;
+    text-align: center;
+    font-weight: 900;
+    color: cadetblue;
+    border: 60px 60px 50px 70px;
+    margin: auto;
+    background-color: gray;
+    background-blend-mode: darken;
+    font-display:auto ;
+    box-shadow: 50px;
+
+}
+div{
+    color: yellowgreen;
+    background-color: darkgrey;
+}
+style{
+    font-size: larger;
 }
