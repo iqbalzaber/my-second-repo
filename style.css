@@ -1,0 +1,11 @@
+p{
+    color: bisque; 
+     background-image:url(../my-second-repo/images.png) ;
+    /* background-repeat: no-repeat; */
+    /* background:cover; */
+    background-size: cover 100px;
+}
+title{
+    
+    background-image: url(../my-second-repo/images.png);
+}
